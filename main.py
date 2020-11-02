@@ -44,6 +44,9 @@ if __name__ == '__main__':
         tweet = f"""
         Hi {isp_name} {isp_handle}, I am experiencing slow internet connection. My download speed is {download_speed}Mbps and my upload speed is {upload_speed}Mbps. Account number is {account_number}. Please fix.
 
+Threshold set-
+Download: {download_threshold}Mbps
+Upload: {upload_threshold}Mbps
 Sent via Python 3.9 bot
         """
         try:
