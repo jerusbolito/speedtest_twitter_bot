@@ -1,0 +1,20 @@
+# Rename this to config.ini and fill in the information as needed. Remove this comment as well.
+[API_DATA]
+api_key =
+api_secret =
+
+[BEARER]
+bearer_token =
+
+[ACCESS_TOKEN]
+access_token =
+access_token_secret =
+
+[SPEEDTEST_THRESHOLD]
+download = 25
+upload = 25
+
+[ISP_INFO]
+name = Converge
+handle = @Converge_CSU
+account_number = test123
